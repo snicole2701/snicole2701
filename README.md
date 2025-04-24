@@ -14,16 +14,11 @@ Hi there! I'm Nicole, a dedicated Python backend developer with a unique journey
 
 
 
-# 💻 Recent Projects
+# 💻 Recent Projects:
 ## 1️⃣ Tax Calculator Backend Microservice
 - Built a backend microservice for a business managing client salaries in Excel.
 - Ensured seamless integration for calculating taxes accurately, supporting frontend development by another team member.
 - Technologies Used: Python, Flask/Django, SQL, Docker.
-
-## 2️⃣ Team & Project Management System
-- Developing a complete backend system for managing teams, hierarchies, and workflows.
-- Features include user permissions, project life cycles, and role-based actions to streamline operations.
-- Technologies Used: Python, FastAPI, SQL, Docker.
 
 
 # 🚀 My Dream
