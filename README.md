@@ -13,14 +13,6 @@ Hi there! I'm Nicole, a dedicated Python backend developer with a unique journey
 - Skilled in SQL, with a focus on creating robust, database-driven applications.
 
 
-
-# 💻 Recent Projects:
-## 1️⃣ Tax Calculator Backend Microservice
-- Built a backend microservice for a business managing client salaries in Excel.
-- Ensured seamless integration for calculating taxes accurately, supporting frontend development by another team member.
-- Technologies Used: Python, Flask/Django, SQL, Docker.
-
-
 # 🚀 My Dream
 I’m passionate about Python backend development and aspire to join a collaborative development team where I can:
 - Build and maintain scalable backend systems.
