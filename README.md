@@ -18,9 +18,6 @@ To build my developer portfolio, I’m currently educating myself in JavaScript 
 I hold a Postgraduate Certificate focusing on data analysis, finance, and people, equipping me with a well-rounded approach to problem-solving.
 🔍 Always eager to learn, build, and innovate—let's connect and grow together!
 
-# 🌱 What’s Next?
-- Explore advanced concepts in system design and database optimization.
-- Build more projects to demonstrate my growing skill set in development.
 
 
 
