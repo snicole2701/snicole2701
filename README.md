@@ -1,32 +1,22 @@
-# 👩‍💻 Nicole | Python Developer 🚀
-Hi there! I'm Nicole, a dedicated Python developer with a unique journey that began in finance and evolved into a passion for technology, data, and building powerful systems. My mission is to design solutions that are efficient, scalable, and meaningful.
+#Nicole HHammond - Python Problem Solver | Data Enthusiast | Automation Advocate
 
-# 🌟 About Me
-- 📊 16 Years in Finance:- I honed my analytical thinking and business acumen through a successful career in finance.
+I spend my life learning skills to solve real-world problems. My journey began when I managed a team of insurance recovery agents and saw them spend hours on repetitive tasks. To improve efficiency, I learned Google Apps Script and automated processes, freeing them to focus on more meaningful work.
+
+But automation was just the beginning. I discovered the power of data—massive amounts were collected, yet little value was extracted. So, I dived into Excel, Python, and Power BI to analyze and visualize complex datasets, leading to profit-boosting insights, productivity improvements, and enhanced client satisfaction.
+
+##🔧 Real-World Solutions I've Built
+- Employee Tax Calculator  Built with Python & Flask, it streamlined tax calculations, reducing manual effort while ensuring accuracy.
+- Predictive Rainfall Model  I educated myself on predictive analytics to determine the best time to plant a lawn based on historical rainfall data.
+- Automated Competitive Analysis  Used Google Apps Script to optimize workflow for insurance recovery agents.
+- Stock Management System  Designed a desktop solution integrated with Google Sheets via API for seamless tracking.
   
-- My later years in finance were focused on data analysis and data science, offering innovative solutions to enhance decision-making processes.
+##📚 My Continuous Learning Path
+I dream of working in a collaborative team, solving challenging problems, and expanding my knowledge every day until I can confidently call myself a Python expert.
+To build my developer portfolio, I’m currently educating myself in JavaScript and HTML, ensuring I can develop every aspect of my profile website myself.
 
-- 🎓 Current MBA Student:- Pursuing my MBA with a specialization in Business Analysis to bridge the gap between strategic thinking and technical expertise.
-
-- 🐍 Python Developer Since 2023:- I’ve dedicated the past two years to growing my expertise in Python, along with frameworks like Flask, Django, and APIs.
-  
-- Skilled in SQL, with a focus on creating robust, database-driven applications.
-
-
-# 🚀 My Dream
-I’m passionate about Python development and aspire to join a collaborative development team where I can:
-- Build and maintain scalable systems.
-- Continuously expand my knowledge and contribute to impactful projects.
-- Work alongside like-minded developers to create solutions that solve real-world challenges.
-
-
-# 🔧 My Toolbox
-- Languages: Python, SQL
-- Frameworks: Django, FastAPI, Flask
-- Databases: MySQL
-- Tools: Docker, RESTful APIs
-- Soft Skills: Remote and in-person collaboration, problem-solving, analytical thinking
-
+##🎓 Business & Data Background
+I hold a Postgraduate Certificate focusing on data analysis, finance, and people, equipping me with a well-rounded approach to problem-solving.
+🔍 Always eager to learn, build, and innovate—let's connect and grow together!
 
 # 🌱 What’s Next?
 - Explore advanced concepts in system design and database optimization.
