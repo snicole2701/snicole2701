@@ -5,10 +5,14 @@ I spend my life learning skills to solve real-world problems. My journey began w
 But automation was just the beginning. I discovered the power of data—massive amounts were collected, yet little value was extracted. So, I dived into Excel, Python, and Power BI to analyze and visualize complex datasets, leading to profit-boosting insights, productivity improvements, and enhanced client satisfaction.
 
 ## 🔧 Real-World Solutions I've Built
-- Employee Tax Calculator  Built with Python & Flask, it streamlined tax calculations, reducing manual effort while ensuring accuracy.
-- Predictive Rainfall Model  I educated myself on predictive analytics to determine the best time to plant a lawn based on historical rainfall data.
-- Automated Competitive Analysis  Used Google Apps Script to optimize workflow for insurance recovery agents.
-- Stock Management System  Designed a desktop solution integrated with Google Sheets via API for seamless tracking.
+- Employee Tax Calculator
+  Built with Python & Flask, it streamlined tax calculations, reducing manual effort while ensuring accuracy.
+- Predictive Rainfall Model
+  I educated myself on predictive analytics to determine the best time to plant a lawn based on historical rainfall data.
+- Automated Analysis
+  Used Google Apps Script to optimize workflow for insurance recovery agents.
+- Stock Management System
+  Designed a desktop solution integrated with Google Sheets via API for seamless tracking.
   
 ## 📚 My Continuous Learning Path
 I dream of working in a collaborative team, solving challenging problems, and expanding my knowledge every day until I can confidently call myself a Python expert.
