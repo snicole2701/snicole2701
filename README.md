@@ -1,6 +1,6 @@
 # Nicole Hammond - Python Problem Solver | Data Enthusiast | Automation Advocate
 
-I spend my life learning skills to solve real-world problems. My journey began when I managed a team of insurance recovery agents and saw them spend hours on repetitive tasks. To improve efficiency, I learned Google Apps Script and automated processes, freeing them to focus on more meaningful work.
+I spend my life learning skills to solve real-world problems. My programming journey began when I managed a team of insurance recovery agents and saw them spend hours on repetitive tasks. To improve efficiency, I learned Google Apps Script and automated processes, freeing them to focus on more meaningful work.
 
 But automation was just the beginning. I discovered the power of data—massive amounts were collected, yet little value was extracted. So, I dived into Excel, Python, and Power BI to analyze and visualize complex datasets, leading to profit-boosting insights, productivity improvements, and enhanced client satisfaction.
 
