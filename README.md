@@ -9,7 +9,7 @@ But automation was just the beginning. I discovered the power of data—massive 
   Built with Python & Flask, it streamlined tax calculations, reducing manual effort while ensuring accuracy.
 - Predictive Rainfall Model
   I educated myself on predictive analytics to determine the best time to plant a lawn based on historical rainfall data.
-- Automated Analysis
+- Automated Google Sheets 
   Used Google Apps Script to optimize workflow for insurance recovery agents.
 - Stock Management System
   Designed a desktop solution integrated with Google Sheets via API for seamless tracking.
