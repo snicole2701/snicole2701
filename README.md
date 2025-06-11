@@ -5,6 +5,8 @@ I spend my life learning skills to solve real-world problems. My programming jou
 But automation was just the beginning. I discovered the power of data. Massive amounts  of data were collected, yet little value was extracted. So, I dived into Excel, Python, and Power BI to analyze and visualize complex datasets, leading to profit-boosting insights, productivity improvements, and enhanced client satisfaction.
 
 ## 🔧 Real-World Solutions I've Built
+- Identification Number verification:
+  I built an application with a simple UI that allows a user to provide an ID number and select one or more options on feedback they want regarding the ID number. Options are: 1) Date of Birth 2) Age 3) Gender 4) Citizen or Permanent Resident 5) Is the ID number provided valid 
 - Employee Tax Calculator
   Built with Python & Flask, it streamlined tax calculations, reducing manual effort while ensuring accuracy.
 - Predictive Rainfall Model
