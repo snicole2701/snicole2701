@@ -5,16 +5,45 @@ I spend my life learning skills to solve real-world problems. My programming jou
 But automation was just the beginning. I discovered the power of data. Massive amounts  of data were collected, yet little value was extracted. So, I dived into Excel, Python, and Power BI to analyze and visualize complex datasets, leading to profit-boosting insights, productivity improvements, and enhanced client satisfaction.
 
 ## 🔧 Real-World Solutions I've Built
-- Identification Number verification:
-  I built an application with a simple UI that allows a user to provide an ID number and select one or more options on feedback they want regarding the ID number. Options are: 1) Date of Birth 2) Age 3) Gender 4) Citizen or Permanent Resident 5) Is the ID number provided valid 
-- Employee Tax Calculator
-  Built with Python & Flask, it streamlined tax calculations, reducing manual effort while ensuring accuracy.
-- Predictive Rainfall Model
-  I educated myself on predictive analytics to determine the best time to plant a lawn based on historical rainfall data.
-- Automated Google Sheets 
-  Used Google Apps Script to optimize workflow for insurance recovery agents.
-- Stock Management System
-  Designed a desktop solution integrated with Google Sheets via API for seamless tracking.
+
+- Excel/CSV Processing App 
+Automates client data conversion from legacy exports to clean, import-ready formats. Supports 
+nested ZIP folders, geo-referencing, and applies client-specific logic for transforming and mapping 
+fields. Turns manual efforts that take implementation consultants days to complete into a 5 minute 
+process. 
+ 
+- ID Number Verification App 
+Validates South African ID numbers for accuracy and completeness using built-in logic checks and 
+pattern matching.
+
+- Stock Management Desktop App 
+A sleek inventory tracker that syncs with Google Sheets via API, enabling real-time updates, central 
+record-keeping, and offline usability.
+
+- Automated Reporting System (Google Apps Script) 
+Pulls data from multiple Google Sheets, compiles and formats it into comprehensive, ready-to-use 
+reports — eliminating repetitive manual effort.
+
+- Automated CRM Reporting Email 
+Built a fully automated system that extracts and cleans CRM data weekly, attaches it to a scheduled 
+email, and sends it to designated team members. The mailing list and schedule are easily 
+customizable, eliminating manual effort while maintaining flexibility
+
+- Employee Tax Calculator 
+Performs PAYE, UIF and net salary calculations based on input salary figures and tax brackets, ideal 
+for small businesses or HR teams. Deployed with Heroku.
+
+- Directory Cleanup Tool 
+Scans and organizes folder structures, based on pre-defined user needs. Organizes files into folders 
+based on user specifications and removes redundant/temporary files that are no longer needed.
+
+- KPI Tracking & Interactive Dashboards
+Designed dashboards in Excel to monitor key performance indicators, visualize trends, and empower 
+data-driven decisions. Integrated dropdown filters, conditional formatting, charts, and dynamic 
+formulas for interactivity.
+
+- Rainfall Prediction Model 
+Uses historical weather data and pattern analysis to make forecasts. 
   
 ## 📚 My Continuous Learning Path
 I dream of working in a collaborative team, solving challenging problems, and expanding my knowledge every day until I can confidently call myself a Python expert.
