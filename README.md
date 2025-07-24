@@ -1,10 +1,12 @@
-# Nicole Hammond - Python Problem Solver | Data Enthusiast | Automation Advocate
+# Nicole Hammond - Backend Developer | Data Enthusiast | Automation Advocate
 
 I spend my life learning skills to solve real-world problems. My programming journey began when I managed a team of insurance recovery agents and saw them spend hours on repetitive tasks. To improve efficiency, I used Google Apps Script to automate processes, freeing them to focus on more meaningful work.
 
 But automation was just the beginning. I discovered the power of data. Massive amounts  of data were collected, yet little value was extracted. So, I dived into Excel, Python, and Power BI to analyze and visualize complex datasets, leading to profit-boosting insights, productivity improvements, and enhanced client satisfaction.
 
 ## 🔧 Real-World Solutions I've Built
+- SAP Workflow Notifier
+Automates detection of stagnant SAP documents and routes alerts to the appropriate users across Slack, Teams, or Email — all without touching the code. Configured via a GUI, it replaces manual checks with real-time notifications and transforms the workflow follow-up process into a hands-free system. Aimed at eliminating delays and unnecessary emails, it encourages action to happens the moment it's needed.
 
 - Excel/CSV Processing App 
 Automates client data conversion from legacy exports to clean, import-ready formats. Supports 
