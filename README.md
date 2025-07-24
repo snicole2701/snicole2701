@@ -1,8 +1,10 @@
 # Nicole Hammond - Backend Developer | Data Enthusiast | Automation Advocate
 
-I spend my life learning skills to solve real-world problems. My programming journey began when I managed a team of insurance recovery agents and saw them spend hours on repetitive tasks. To improve efficiency, I used Google Apps Script to automate processes, freeing them to focus on more meaningful work.
+I’ve dedicated my career to mastering the skills needed to solve real-world problems through thoughtful, reliable technology. My programming journey began while managing a team of insurance recovery agents, where I noticed how much time was lost to repetitive, manual tasks. To boost efficiency, I taught myself Google Apps Script and built automations that freed my team to focus on higher-value work.
 
-But automation was just the beginning. I discovered the power of data. Massive amounts  of data were collected, yet little value was extracted. So, I dived into Excel, Python, and Power BI to analyze and visualize complex datasets, leading to profit-boosting insights, productivity improvements, and enhanced client satisfaction.
+That experience sparked my passion for backend development — building systems that quietly power productivity and enable others to do more. As I explored deeper challenges, I uncovered untapped potential in operational data: vast volumes were being collected, but little insight was being used. So I expanded into Excel automation, Python scripting, and Power BI to standardize messy datasets and extract meaningful patterns. These backend solutions led to measurable gains in profitability, efficiency, and client satisfaction.
+
+Now, I’m focused on growing as a backend developer — designing resilient tools and scalable systems that support decision-making and automation across any environment.
 
 ## 🔧 Real-World Solutions I've Built
 - SAP Workflow Notifier
@@ -48,13 +50,26 @@ formulas for interactivity.
 Uses historical weather data and pattern analysis to make forecasts. 
   
 ## 📚 My Continuous Learning Path
-I dream of working in a collaborative team, solving challenging problems, and expanding my knowledge every day until I can confidently call myself a Python expert.
-To build my portfolio, I’m currently continuously building python applications to expand my knowldege. I am currently concentrating specifically on python for automation of repetative tasks and testing.
+I’m on a journey to become a confident backend developer — someone who builds systems that automate, scale, and support real-world impact. I dream of collaborating with driven teams, solving challenging problems, and expanding my knowledge every day until I can truly call myself a coding expert.
 
-## 🎓 Business & Data Background
-I hold a Postgraduate Certificate focusing on data analysis, finance, and people.
-In the later years of my career I realized that the reason I was excelling in the finance and insurance industry was due to my ability to recognize patterns in the fineset of details, solve problems with logical solutions, constantly and quickly aquiring needed skills to get the job done and my curiosity. In the process of solving problems I found my passion for programming. 
-🔍 Always eager to learn, build, and innovate—let's connect!
+To build my portfolio, I’m continuously developing my programming skills, with a current focus on automation of repetitive tasks and testing frameworks that increase reliability and save time. Each project strengthens my backend development skills and deepens my understanding of building adaptable, maintainable solutions.
+
+In September 2025, I’ll begin my MSc in Computer Science — a milestone in my transition toward a full-time backend engineering role. My learning so far includes:
+
+### Degrees & Specializations
+- Postgraduate Certificate in Business Administration — Edinburgh Business School (2025)
+- Machine Learning Specialization — Stanford University / DeepLearning.AI (2025)
+- Complete Python Developer in 2025 Certificate — Zero to Mastery (2025)
+
+### Professional Certifications
+- IBM Introduction to DevOps (2025)
+- Microsoft Power BI (PL-300) Certification (2024)
+- IBM Data Analyst Professional Certificate (2024)
+
+### Foundational Credentials
+- Fundamentals of Accounting Certificate — Alison (2019)
+- Diploma in Business and Legal Studies — Alison (2018)
+- Communication & Networking Skills Certificate — Alison (2018
 
 ## Who am I Outside of Work
 I enjoy good food, good wine and a cold beer on a warm day.
