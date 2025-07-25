@@ -8,48 +8,59 @@ Now, I’m focused on growing as a backend developer — designing resilient too
 
 ## 🔧 Real-World Solutions I've Built
 - AI Prompt Optimizer
+
 Prompt Optimizer streamlines prompt engineering by transforming fragmented developer inputs into well-structured, AI-ready instructions — no coding required. Through a form-based interface, users define task objectives, language preferences, and code context. The app then compiles detailed multi-part prompts tailored for maximum clarity and effectiveness. Designed to eliminate vague instructions and improve response quality, it empowers developers to get complete, ready-to-use code suggestions on the first try
 
 - SAP Workflow Notifier
+  
 Automates detection of stagnant SAP documents and routes alerts to the appropriate users across Slack, Teams, or Email — all without touching the code. Configured via a GUI, it replaces manual checks with real-time notifications and transforms the workflow follow-up process into a hands-free system. Aimed at eliminating delays and unnecessary emails, it encourages action to happens the moment it's needed.
 
-- Excel/CSV Processing App 
+- Excel/CSV Processing App
+  
 Automates client data conversion from legacy exports to clean, import-ready formats. Supports 
 nested ZIP folders, geo-referencing, and applies client-specific logic for transforming and mapping 
 fields. Turns manual efforts that take implementation consultants days to complete into a 5 minute 
 process. 
  
-- ID Number Verification App 
+- ID Number Verification App
+  
 Validates South African ID numbers for accuracy and completeness using built-in logic checks and 
 pattern matching.
 
-- Stock Management Desktop App 
+- Stock Management Desktop App
+  
 A sleek inventory tracker that syncs with Google Sheets via API, enabling real-time updates, central 
 record-keeping, and offline usability.
 
-- Automated Reporting System (Google Apps Script) 
+- Automated Reporting System (Google Apps Script)
+  
 Pulls data from multiple Google Sheets, compiles and formats it into comprehensive, ready-to-use 
 reports — eliminating repetitive manual effort.
 
-- Automated CRM Reporting Email 
+- Automated CRM Reporting Email
+  
 Built a fully automated system that extracts and cleans CRM data weekly, attaches it to a scheduled 
 email, and sends it to designated team members. The mailing list and schedule are easily 
 customizable, eliminating manual effort while maintaining flexibility
 
-- Employee Tax Calculator 
+- Employee Tax Calculator
+  
 Performs PAYE, UIF and net salary calculations based on input salary figures and tax brackets, ideal 
 for small businesses or HR teams. Deployed with Heroku.
 
-- Directory Cleanup Tool 
+- Directory Cleanup Tool
+  
 Scans and organizes folder structures, based on pre-defined user needs. Organizes files into folders 
 based on user specifications and removes redundant/temporary files that are no longer needed.
 
 - KPI Tracking & Interactive Dashboards
+  
 Designed dashboards in Excel to monitor key performance indicators, visualize trends, and empower 
 data-driven decisions. Integrated dropdown filters, conditional formatting, charts, and dynamic 
 formulas for interactivity.
 
-- Rainfall Prediction Model 
+- Rainfall Prediction Model
+  
 Uses historical weather data and pattern analysis to make forecasts. 
   
 ## 📚 My Continuous Learning Path
