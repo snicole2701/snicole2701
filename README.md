@@ -7,6 +7,9 @@ That experience sparked my passion for backend development — building systems 
 Now, I’m focused on growing as a backend developer — designing resilient tools and scalable systems that support decision-making and automation across any environment.
 
 ## 🔧 Real-World Solutions I've Built
+- AI Prompt Optimizer
+Prompt Optimizer streamlines prompt engineering by transforming fragmented developer inputs into well-structured, AI-ready instructions — no coding required. Through a form-based interface, users define task objectives, language preferences, and code context. The app then compiles detailed multi-part prompts tailored for maximum clarity and effectiveness. Designed to eliminate vague instructions and improve response quality, it empowers developers to get complete, ready-to-use code suggestions on the first try
+
 - SAP Workflow Notifier
 Automates detection of stagnant SAP documents and routes alerts to the appropriate users across Slack, Teams, or Email — all without touching the code. Configured via a GUI, it replaces manual checks with real-time notifications and transforms the workflow follow-up process into a hands-free system. Aimed at eliminating delays and unnecessary emails, it encourages action to happens the moment it's needed.
 
