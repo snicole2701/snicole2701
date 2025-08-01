@@ -72,7 +72,7 @@ In September 2025, I’ll begin my MSc in Computer Science — a milestone in my
 
 ### Degrees & Specializations
 - Postgraduate Certificate in Business Administration — Edinburgh Business School (2025)
-- Machine Learning Specialization — Stanford University / DeepLearning.AI (2025)
+- Machine Learning Specialization — Stanford University / DeepLearning.AI (2024)
 - Complete Python Developer in 2025 Certificate — Zero to Mastery (2025)
 
 ### Professional Certifications
