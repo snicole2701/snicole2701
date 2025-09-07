@@ -35,5 +35,4 @@ I’m seeking a long-term remote role where I can lead impactful projects and co
 I enjoy good food, good wine and a cold beer on a warm day.
 I love cooking delicious meals with fresh produce, but aside from sourdough bread cannot bake to save my life.
 I am a mother and wife to a house full of gamers.
-I am the type of wife who did not allow my husband to plant a new lawn until I had build a model to predict when we could expect the rain season to start.
 I live to work, but not in the unhealthy way. I love what I do. Every project, solution or task completed brings me joy. My career is my hobby and my passion. When you love what you do, you'll never work a day in your life.
