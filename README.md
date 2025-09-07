@@ -24,10 +24,8 @@ Postgraduate Certificate in Business Administration already awarded
 - Python Automation Certificate — ZTM (2025)
 - Microsoft Power BI Certification (2024)
 - IBM Data Analyst Professional Certificate — Coursera (2024)
-- Preparing for CAPM (Certified Associate in Project Management
+- Preparing for CAPM (Certified Associate in Project Management)
 
-
-In September 2025, I’ll begin my MSc in Computer Science — a milestone in my transition toward a full-time backend engineering role. My learning so far includes:
 
 ## What I’m Looking For
 I’m seeking a long-term remote role where I can lead impactful projects, collaborate with driven teams, and continue building systems that scale. I thrive in environments that value initiative, structure, and results — and I bring all three.
