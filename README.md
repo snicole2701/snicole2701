@@ -28,7 +28,7 @@ Postgraduate Certificate in Business Administration already awarded
 
 
 ## What I’m Looking For
-I’m seeking a long-term remote role where I can lead impactful projects, collaborate with driven teams, and continue building systems that scale. I thrive in environments that value initiative, structure, and results — and I bring all three.
+I’m seeking a long-term remote role where I can lead impactful projects and collaborate with driven teams. I thrive in environments that value initiative, structure, and results — and I bring all three.
 “I’m not a jack of all trades — I’ve chosen each opportunity to build a foundation strong enough to lead large teams and projects with confidence.”
 
 ## Who am I Outside of Work
