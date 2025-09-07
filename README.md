@@ -19,7 +19,7 @@ My journey began in finance and insurance recovery, where I led teams managing 5
 
  
 ##  Education & Certifications
-- MBA in Business Analytics (In Progress) — Heriot-Watt University
+- MBA specializing in Business Analytics (In Progress) — Heriot-Watt University
 Postgraduate Certificate in Business Administration already awarded
 - Python Automation Certificate — ZTM (2025)
 - Microsoft Power BI Certification (2024)
