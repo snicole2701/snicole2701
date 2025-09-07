@@ -1,89 +1,37 @@
-# Nicole Hammond - Backend Developer | Data Enthusiast | Automation Advocate
+# Nicole Hammond - Project Manager | Team Leader | Automation Strategist | Department Head (South Africa)
 
-I’ve dedicated my career to mastering the skills needed to solve real-world problems through thoughtful, reliable technology. My programming journey began while managing a team of insurance recovery agents, where I noticed how much time was lost to repetitive, manual tasks. To boost efficiency, I taught myself Google Apps Script and built automations that freed my team to focus on higher-value work.
+I specialize in leading complex, multi-stream projects that drive operational efficiency, reduce costs, and elevate team performance. With 10 years of experience across property management, legal recovery, and enterprise operations, I’ve built a career around solving real-world problems through strategic leadership and smart automation.
 
-That experience sparked my passion for backend development — building systems that quietly power productivity and enable others to do more. As I explored deeper challenges, I uncovered untapped potential in operational data: vast volumes were being collected, but little insight was being used. So I expanded into Excel automation, Python scripting, and Power BI to standardize messy datasets and extract meaningful patterns. These backend solutions led to measurable gains in profitability, efficiency, and client satisfaction.
+My journey began in finance and insurance recovery, where I led teams managing 500–1000 active files for major insurers. I identified inefficiencies, restructured workflows, and spearheaded client onboarding and compliance initiatives. Later, I transitioned into freelance consulting, delivering automation-driven solutions for global corporations — including a custom payroll implementation app that eliminated manual effort and human error.
 
-Now, I’m focused on growing as a backend developer — designing resilient tools and scalable systems that support decision-making and automation across any environment.
 
-## 🔧 Real-World Solutions I've Built
-- AI Prompt Optimizer
+## What I Have Been Up To:
+- Lead remote and hybrid teams with clarity and empathy
+- Manage 3+ concurrent projects across different phases with zero missed deadlines
+- Draft business requirements, build project plans, and oversee full delivery cycles
+- Design and implement automation systems using Google Sheets, Apps Script, and Power BI
+- Communicate professionally with senior stakeholders and executive teams
+- Payroll Implementation Automation: Built a custom app for a global payroll firm to eliminate manual onboarding
+- ClickUp & Asana Setup: Designed workflows, automations, and reporting systems for operational teams
+- Google Sheets Integrations: Connected platforms to reduce repetitive tasks and improve data accuracy
+- Client Onboarding & Compliance: Led operational overhauls for legal and insurance recovery firms
+- Multi-Project Management: Oversaw 3+ large-scale initiatives simultaneously for enterprise clients
 
-Prompt Optimizer streamlines prompt engineering by transforming fragmented developer inputs into well-structured, AI-ready instructions — no coding required. Through a form-based interface, users define task objectives, language preferences, and code context. The app then compiles detailed multi-part prompts tailored for maximum clarity and effectiveness. Designed to eliminate vague instructions and improve response quality, it empowers developers to get complete, ready-to-use code suggestions on the first try
-
-- SAP Workflow Notifier
-  
-Automates detection of stagnant SAP documents and routes alerts to the appropriate users across Slack, Teams, or Email — all without touching the code. Configured via a GUI, it replaces manual checks with real-time notifications and transforms the workflow follow-up process into a hands-free system. Aimed at eliminating delays and unnecessary emails, it encourages action to happens the moment it's needed.
-
-- Excel/CSV Processing App
-  
-Automates client data conversion from legacy exports to clean, import-ready formats. Supports 
-nested ZIP folders, geo-referencing, and applies client-specific logic for transforming and mapping 
-fields. Turns manual efforts that take implementation consultants days to complete into a 5 minute 
-process. 
  
-- ID Number Verification App
-  
-Validates South African ID numbers for accuracy and completeness using built-in logic checks and 
-pattern matching.
+##  Education & Certifications
+- MBA in Business Analytics (In Progress) — Heriot-Watt University
+Postgraduate Certificate in Business Administration already awarded
+- Python Automation Certificate — ZTM (2025)
+- Microsoft Power BI Certification (2024)
+- IBM Data Analyst Professional Certificate — Coursera (2024)
+- Preparing for CAPM (Certified Associate in Project Management
 
-- Stock Management Desktop App
-  
-A sleek inventory tracker that syncs with Google Sheets via API, enabling real-time updates, central 
-record-keeping, and offline usability.
-
-- Automated Reporting System (Google Apps Script)
-  
-Pulls data from multiple Google Sheets, compiles and formats it into comprehensive, ready-to-use 
-reports — eliminating repetitive manual effort.
-
-- Automated CRM Reporting Email
-  
-Built a fully automated system that extracts and cleans CRM data weekly, attaches it to a scheduled 
-email, and sends it to designated team members. The mailing list and schedule are easily 
-customizable, eliminating manual effort while maintaining flexibility
-
-- Employee Tax Calculator
-  
-Performs PAYE, UIF and net salary calculations based on input salary figures and tax brackets, ideal 
-for small businesses or HR teams. Deployed with Heroku.
-
-- Directory Cleanup Tool
-  
-Scans and organizes folder structures, based on pre-defined user needs. Organizes files into folders 
-based on user specifications and removes redundant/temporary files that are no longer needed.
-
-- KPI Tracking & Interactive Dashboards
-  
-Designed dashboards in Excel to monitor key performance indicators, visualize trends, and empower 
-data-driven decisions. Integrated dropdown filters, conditional formatting, charts, and dynamic 
-formulas for interactivity.
-
-- Rainfall Prediction Model
-  
-Uses historical weather data and pattern analysis to make forecasts. 
-  
-## 📚 My Continuous Learning Path
-I’m on a journey to become a confident backend developer — someone who builds systems that automate, scale, and support real-world impact. I dream of collaborating with driven teams, solving challenging problems, and expanding my knowledge every day until I can truly call myself a coding expert.
-
-To build my portfolio, I’m continuously developing my programming skills, with a current focus on automation of repetitive tasks and testing frameworks that increase reliability and save time. Each project strengthens my backend development skills and deepens my understanding of building adaptable, maintainable solutions.
 
 In September 2025, I’ll begin my MSc in Computer Science — a milestone in my transition toward a full-time backend engineering role. My learning so far includes:
 
-### Degrees & Specializations
-- Postgraduate Certificate in Business Administration — Edinburgh Business School (2025)
-- Machine Learning Specialization — Stanford University / DeepLearning.AI (2024)
-- Complete Python Developer in 2025 Certificate — Zero to Mastery (2025)
-
-### Professional Certifications
-- IBM Introduction to DevOps (2025)
-- Microsoft Power BI (PL-300) Certification (2024)
-- IBM Data Analyst Professional Certificate (2024)
-
-### Foundational Credentials
-- Fundamentals of Accounting Certificate — Alison (2019)
-- Diploma in Business and Legal Studies — Alison (2018)
-- Communication & Networking Skills Certificate — Alison (2018
+## What I’m Looking For
+I’m seeking a long-term remote role where I can lead impactful projects, collaborate with driven teams, and continue building systems that scale. I thrive in environments that value initiative, structure, and results — and I bring all three.
+“I’m not a jack of all trades — I’ve chosen each opportunity to build a foundation strong enough to lead large teams and projects with confidence.”
 
 ## Who am I Outside of Work
 I enjoy good food, good wine and a cold beer on a warm day.
