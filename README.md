@@ -7,7 +7,7 @@ My journey began in finance and insurance recovery, where I led teams managing 5
 
 ## What I Have Been Up To:
 - Lead remote and hybrid teams with clarity and empathy
-- Manage 3+ concurrent projects across different phases with zero missed deadlines
+- Managed multiple concurrent projects across different phases with zero missed deadlines
 - Draft business requirements, build project plans, and oversee full delivery cycles
 - Design and implement automation systems using Google Sheets, Apps Script, and Power BI
 - Communicate professionally with senior stakeholders and executive teams
